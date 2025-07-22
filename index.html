@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Todo App</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</head>
+<body>
+  <div class="toggle-theme">
+    <button onclick="toggleTheme()"><i class="fas fa-adjust"></i></button>
+  </div>
+
+  <div class="container">
+    <h1>🌟 To-Do List</h1>
+    <div class="input-group">
+      <input type="text" id="todoInput" placeholder="Add a new task..." />
+      <button onclick="addTodo()"><i class="fas fa-plus"></i></button>
+    </div>
+    <ul id="todoList"></ul>
+  </div>  
+
+  <script src="script.js"></script>
+</body>
+</html>
+
