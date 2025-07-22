@@ -25,3 +25,9 @@ This is a modern, responsive To-Do list app built using HTML, CSS, and JavaScrip
 git clone https://github.com/YourUsername/js-todo-app.git
 cd js-todo-app
 Open index.html in browser
+---
+
+### 🌐 Live Demo
+
+[Click here to view](https://ayushfulsundar08.github.io/js-todo-app/)
+
