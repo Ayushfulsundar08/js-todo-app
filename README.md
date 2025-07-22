@@ -1,34 +1,26 @@
-# Sleek To-Do Web App
+# ✅ Sleek To-Do Web App  
+A modern and responsive To-Do list application built using **HTML**, **CSS**, and **Vanilla JavaScript**.  
 
-This is a modern, responsive To-Do list app built using HTML, CSS, and JavaScript.
+## 🔥 Features  
+- ✨ Clean, modern UI with smooth interactions  
+- 🌙 Toggle between light and dark themes  
+- ✅ Add, complete, and remove tasks  
+- 📱 Fully responsive design for all devices  
 
-### 🔥 Features
-- Clean, modern UI with dark mode 🌙
-- Add tasks and mark them complete
-- Fully responsive design
-- Smooth theme toggle
+## 🧠 Tech Stack  
+- **HTML5**  
+- **CSS3** (Flexbox, Variables)  
+- **JavaScript** (Vanilla)  
 
-### 🧠 Technologies Used
-- HTML5
-- CSS3 (Flexbox + Variables)
-- JavaScript (Vanilla)
+## 📸 Preview  
+![screenshot](Screenshot.png)  
 
----
+## 🌐 Live Demo  
+👉 [Click here to view the live To-Do App](https://ayushfulsundar08.github.io/js-todo-app/)  
 
-### 📸 Preview
-![screenshot](https://via.placeholder.com/400x200.png?text=ToDo+App+Preview)
+## 🚀 Getting Started  
+Clone this repository and open the app in your browser:  
 
----
-
-### 📂 How to Run
-```bash
-git clone https://github.com/YourUsername/js-todo-app.git
-cd js-todo-app
-Open index.html in browser
----
-
----
-
-### 🌐 Live Demo
-
-[Click here to view the live To-Do App](https://ayushfulsundar08.github.io/js-todo-app/)
+```bash  
+git clone https://github.com/Ayushfulsundar08/js-todo-app.git  
+cd js-todo-app  
