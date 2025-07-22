@@ -27,7 +27,8 @@ cd js-todo-app
 Open index.html in browser
 ---
 
+---
+
 ### 🌐 Live Demo
 
-[Click here to view](https://ayushfulsundar08.github.io/js-todo-app/)
- ECHO is on.
+[Click here to view the live To-Do App](https://ayushfulsundar08.github.io/js-todo-app/)
